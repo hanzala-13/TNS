@@ -1,30 +1,36 @@
 # TNS Foundation Java Training
 
-This repository contains my Java assignments completed during the TNS Foundation Java Training.
+This repository contains Java programs and assignments completed as part of the TNS Foundation Java Training Program.
 
 ## Topics Covered
 
+- Java Basics
 - Variables and Data Types
 - Operators
-- If-Else Statements
-- Switch Statements
+- Conditional Statements (if-else, switch)
 - Loops
 - Arrays
 - Strings
 - Methods
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 
-## Development Environment
+## Tools Used
 
-- Language: Java
-- IDE: Eclipse IDE
-- JDK: Java 21
+- Java 21
+- Eclipse IDE
+- Git
+- GitHub
 
-## Repository Structure
+## Project Structure
 
 ```
 src/
- ├── assignment_1/
- ├── java1/
- └── ...
+├── assignment_1/
+├── java1/
+└── ...
 ```
+
+## Author
+
+Hanzala Bagwan
+BE Information Technology
